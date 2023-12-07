@@ -11,7 +11,7 @@ O `ftpbrute` é uma ferramenta simples escrita em Python que visa realizar ataqu
 ## Configuração
 
 
-git clone https://github.com/BearSmithRiver/
+git clone https://github.com/BearSmithRiver/ftpbrute
 
 cd ftpbrute
 
