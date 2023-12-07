@@ -17,4 +17,4 @@ cd ftpbrute
 
 python3 ftpbrute.py
 
-![Uploading Captura de Tela (155).png…]()
+
