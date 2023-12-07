@@ -18,3 +18,6 @@ cd ftpbrute
 python3 ftpbrute.py
 
 
+![Captura de Tela (155)](https://github.com/BearSmithRiver/ftpbrute/assets/150410689/0046608e-fb18-4208-8f20-11a579e23915)
+
+![Captura de Tela (156)](https://github.com/BearSmithRiver/ftpbrute/assets/150410689/6d2fea7c-9f76-4e05-8530-bad87d349282)
